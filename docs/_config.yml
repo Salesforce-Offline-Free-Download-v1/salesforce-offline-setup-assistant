@@ -1,0 +1,17 @@
+theme: jekyll-theme-minimal
+
+title: QuickBooks Offline Setup Assistant
+description: >-
+  Documentation for the QuickBooks Offline Setup Assistant. 
+  An unofficial offline simulator for exploring QuickBooks features without needing a cloud connection.
+
+# SEO Settings
+# twitter:
+#   username: your_twitter_handle
+#   card: summary
+# logo: logo.png
+# social:
+#   name: Your Name
+#   links:
+#     - https://twitter.com/your_twitter_handle
+#     - https://github.com/your_github_handle 
