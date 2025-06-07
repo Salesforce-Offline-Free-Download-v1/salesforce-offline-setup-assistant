@@ -1,9 +1,9 @@
 theme: jekyll-theme-minimal
 
-title: QuickBooks Offline Setup Assistant
+title: Salesforce Offline Setup Assistant
 description: >-
-  Documentation for the QuickBooks Offline Setup Assistant. 
-  An unofficial offline simulator for exploring QuickBooks features without needing a cloud connection.
+  Documentation for the Salesforce Offline Setup Assistant. 
+  An unofficial offline simulator for exploring Salesforce CRM features without needing cloud access.
 
 # SEO Settings
 # twitter:

@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-We are committed to ensuring the security of the QuickBooks Offline Setup Assistant. Security patches are provided for the following versions:
+We are committed to ensuring the security of the Salesforce Offline Setup Assistant. Security patches are provided for the following versions:
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -13,7 +13,7 @@ We are committed to ensuring the security of the QuickBooks Offline Setup Assist
 
 The security of our users' data is a top priority. We take all security vulnerabilities seriously. Thank you for helping us keep this project safe.
 
-To report a security vulnerability, please use the [GitHub Security Advisory "Report a Vulnerability" feature](https://github.com/quickbooks-offline/quickbooks-offline-setup-assistant/security/advisories/new).
+To report a security vulnerability, please use the [GitHub Security Advisory "Report a Vulnerability" feature](https://github.com/Salesforce-Offline-Free-Download-v1/salesforce-offline-setup-assistant/security/advisories/new).
 
 **Please do not report security vulnerabilities through public GitHub issues.**
 

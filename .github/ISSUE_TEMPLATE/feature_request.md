@@ -1,6 +1,6 @@
 ---
 name: "🚀 Feature Request"
-about: "Suggest an idea for the QuickBooks Offline Setup Assistant"
+about: "Suggest an idea for the Salesforce Offline Setup Assistant"
 title: "[FEAT] "
 labels: "enhancement, needs-triage"
 assignees: ''

@@ -1,6 +1,6 @@
-# Welcome to the QuickBooks Offline Setup Assistant Documentation
+# Welcome to the Salesforce Offline Setup Assistant Documentation
 
-This documentation provides a comprehensive guide to using the QuickBooks Offline Setup Assistant.
+This documentation provides a comprehensive guide to using the Salesforce Offline Setup Assistant.
 
 ## Getting Started
 
@@ -13,10 +13,9 @@ If you're new to the project, this is the place to start.
 
 Learn about the main features of the assistant.
 
--   **[Invoicing](./modules/invoicing.md)**: Simulating customer invoices and payments.
--   **[Expense Tracking](./modules/expenses.md)**: Managing and categorizing business expenses.
--   **[Payroll](./modules/payroll.md)**: Understanding payroll runs and employee data.
--   **[Reporting](./modules/reporting.md)**: Exploring financial reports.
+-   **[Sales Module](./modules/sales.md)**: Simulating customer relationship management.
+-   **[Service Module](./modules/service.md)**: Managing cases and customer support.
+-   **[Analytics](./modules/analytics.md)**: Exploring dashboards and reports.
 
 ## Contributing
 

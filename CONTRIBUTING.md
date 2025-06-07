@@ -1,4 +1,4 @@
-# Contributing to QuickBooks Offline Setup Assistant
+# Contributing to Salesforce Offline Setup Assistant
 
 First off, thank you for considering contributing! It's people like you that make this such a great tool.
 

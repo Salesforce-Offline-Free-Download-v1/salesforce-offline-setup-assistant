@@ -1,6 +1,6 @@
 ---
 name: "🐞 Bug Report"
-about: "Create a report to help us improve the QuickBooks Offline Setup Assistant"
+about: "Create a report to help us improve the Salesforce Offline Setup Assistant"
 title: "[BUG] "
 labels: "bug, needs-triage"
 assignees: ''

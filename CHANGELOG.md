@@ -8,8 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.0] - YYYY-MM-DD
 
 ### Added
-- Initial release of the QuickBooks Offline Setup Assistant.
-- Core features: Offline simulation for Invoicing, Expenses, Payroll, and Reporting.
-- Sample company data for demonstration purposes.
+- Initial release of the Salesforce Offline Setup Assistant.
+- Core features: Offline simulation for Sales, Service, and Analytics modules.
+- Sample CRM data for demonstration purposes.
 - User guide in PDF format.
 - Complete GitHub project structure with documentation, issue templates, and contribution guidelines. 
